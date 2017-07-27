@@ -3,5 +3,9 @@
 	"version": "0.1.1",
 	"devDependencies": {
 		"lerna": "^2.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://git.stratag.com/Strata/react-app"
 	}
 }
