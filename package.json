@@ -1,4 +1,6 @@
 {
+	"name": "am-react-scripts",
+	"version": "0.1.1",
 	"devDependencies": {
 		"lerna": "^2.0.0"
 	}
