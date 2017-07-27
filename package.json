@@ -1,14 +1,5 @@
 {
-	"name": "am-react-scripts",
-	"version": "0.1.1",
 	"devDependencies": {
 		"lerna": "^2.0.0"
-	},
-	"description": "",
-	"author": "Aman Mahajan <nova.aman@gmail.com>",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/amanmahajan7/am-react-scripts"
 	}
 }
