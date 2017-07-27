@@ -4,8 +4,11 @@
 	"devDependencies": {
 		"lerna": "^2.0.0"
 	},
+	"description": "am-react-scripts",
+	"author": "Aman Mahajan <nova.aman@gmail.com>",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://git.stratag.com/Strata/react-app"
+		"url": "https://github.com/amanmahajan7/am-react-scripts"
 	}
 }
