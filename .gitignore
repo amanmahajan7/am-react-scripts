@@ -1,0 +1,8 @@
+**/node_modules
+lib
+**/build
+test/reports
+test/coverage
+dist
+npm-debug.log
+**.orig
