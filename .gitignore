@@ -6,3 +6,4 @@ test/coverage
 dist
 npm-debug.log
 **.orig
+lerna-debug.log
